@@ -1,0 +1,74 @@
+.main-section{
+    width: 2000px;
+    height: 1100px;
+    background-color: floralwhite;
+}
+.header-1{
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+.nav-btn3{
+    margin-left: 300px;
+    margin-top: 50px;
+    
+}
+
+.backpack{
+    font-size: 90px;
+    color: rgb(1, 12, 1);
+    margin-top: 200px;
+    font-family: fantasy;
+}
+.moon{
+    font-size: 90px;
+    color: rgb(53, 156, 33);
+    font-family: fantasy;
+    
+}
+.col-md-7{
+    background-image: url(images/green.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    height: 800px;
+    margin-right: 0%;
+}
+
+.images{
+ width: 65%;
+ margin-left: 140px;
+ margin-top: 100px;
+}
+.usd{
+    color: cyan;
+}
+.Casual-backpack{
+    color: darkslategray;
+    font-size: 70px;
+    font-family: fantasy;
+    margin-left: 50px;
+}
+
+.col-md-6 img{
+    width: 100%;
+
+}
+.second-part{height: 720px;
+    margin-top: 50px;
+    margin-left: 100px;
+   
+    
+}
+.third-part{
+    margin-left: 100px;
+}
+.img-cardpic{
+    width: 87%;
+    margin-left: 35px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: rgb(136, 139, 139);
+}
+.part-four{
+    margin-left: 100px;
